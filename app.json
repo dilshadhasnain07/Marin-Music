@@ -10,6 +10,7 @@
     "MikoMusicBot",
     "telegram-bot",
     "pyrogram"
+           "repository": "https://github.com/dilshadhasnain07/YaeMiko",
     ],
     "env": {
       "API_ID": {
