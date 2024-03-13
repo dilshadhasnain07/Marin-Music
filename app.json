@@ -1,5 +1,5 @@
 {
-    "name": "Music-bots",
+    "name": "Miko Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/64fffd8c475f496e409b1.jpg",
     "keywords": [
@@ -10,7 +10,6 @@
     "MikoMusicBot",
     "telegram-bot",
     "pyrogram"
-           "repository": "https://github.com/dilshadhasnain07/Marin-Music",
     ],
     "env": {
       "API_ID": {
