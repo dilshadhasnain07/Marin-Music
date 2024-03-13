@@ -16,7 +16,7 @@ Deploy and add your management bots token for getting vc player system in one bo
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Infamous-Hydra/Miko-Music/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/dilshadhasnain07/Miko-Music/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -28,7 +28,7 @@ Deploy and add your management bots token for getting vc player system in one bo
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Infamous-Hydra/Marin-Music && cd Marin-Music`
+`git clone https://github.com/dilshadhasnain07/Marin-Music && cd Marin-Music`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Create .env  with sample.env : 
